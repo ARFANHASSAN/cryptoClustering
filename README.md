@@ -76,16 +76,16 @@ Set the x-axis as "price_change_percentage_24h" and the y-axis as "price_change_
 Color the graph points based on the labels obtained from K-means.
 Include the "coin_id" column in the hover_cols parameter to identify the cryptocurrency associated with each data point.
 
-# Introduction:
+##  Introduction:
 Use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes
 
 ## Findings:
 
 ## Elbow Curve Comparison:
 
-![Elbow crve 1]("C:\Users\bella\Desktop\cryptoClustering\images\Elbow curve 1.png")
+ ![Elbow crve 1]("C:\Users\bella\Desktop\cryptoClustering\images\Elbow curve 1.png")
 
-![Elbow curve 2]("C:\Users\bella\Desktop\cryptoClustering\images\Elbow curve 2.png")
+![Elbow curv 2]("C:\Users\bella\Desktop\cryptoClustering\images\Elbow curve 2.png")
 
 ![Elbow curve combined]("C:\Users\bella\Desktop\cryptoClustering\images\combined Elbow curve.png")
 
